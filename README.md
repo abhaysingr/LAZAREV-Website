@@ -1,4 +1,4 @@
-# LAZAREV. - Digital Product Design Agency Clone
+# LAZAREV. - Digital Product Design Agency Website
 
 This project is a clone of a "LAZAREV. Digital Product Design Agency" website, focusing on UI/UX and product design for AI & ML businesses. It's a single-page application demonstrating various modern web development techniques and animations.
 
